@@ -3,600 +3,837 @@
     "company": "Huel-Gutkowski",
     "position": "Technical Writer",
     "status": "interview",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "full-time",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-06-13T01:36:26Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Halvorson-Schmidt",
     "position": "Internal Auditor",
     "status": "declined",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "remote",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-03-19T03:14:46Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Rogahn-Johnson",
     "position": "Internal Auditor",
     "status": "declined",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "part-time",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2021-09-11T10:13:12Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Hoppe and Sons",
     "position": "GIS Technical Architect",
     "status": "declined",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "part-time",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-08-09T00:46:14Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Runolfsson LLC",
     "position": "Geologist I",
     "status": "pending",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "part-time",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2021-12-25T23:41:49Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Von Group",
     "position": "Electrical Engineer",
     "status": "pending",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "internship",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-04-18T18:36:02Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Nitzsche, Marquardt and Kling",
     "position": "Research Associate",
     "status": "pending",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "remote",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-01-13T03:36:17Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "O'Conner-Smitham",
     "position": "Operator",
     "status": "pending",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "remote",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2021-10-08T16:56:15Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Swift Group",
     "position": "Staff Accountant II",
     "status": "interview",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "part-time",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-07-13T08:56:08Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Smith, Gusikowski and Bahringer",
     "position": "Financial Analyst",
     "status": "interview",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "remote",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2021-12-18T13:23:37Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Hyatt-Hudson",
     "position": "Help Desk Operator",
     "status": "interview",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "internship",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-02-17T00:42:47Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Douglas Inc",
     "position": "Electrical Engineer",
     "status": "pending",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "internship",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2021-12-29T02:42:36Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Wiegand-O'Connell",
     "position": "Marketing Manager",
     "status": "pending",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "remote",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-04-29T02:50:42Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Mitchell, Quitzon and Kuphal",
     "position": "Software Consultant",
     "status": "interview",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "internship",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2021-12-28T23:18:11Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Cruickshank and Sons",
     "position": "Actuary",
     "status": "declined",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "remote",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-07-22T18:06:19Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Sporer-Price",
     "position": "Physical Therapy Assistant",
     "status": "pending",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "internship",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2021-12-07T23:51:56Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Miller LLC",
     "position": "Clinical Specialist",
     "status": "interview",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "remote",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-03-23T00:48:54Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Volkman, Jast and Wuckert",
     "position": "Internal Auditor",
     "status": "pending",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "part-time",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-07-01T03:56:33Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Bednar-Reichert",
     "position": "Environmental Tech",
     "status": "declined",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "internship",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-05-03T03:03:10Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "McGlynn, Schroeder and Stanton",
     "position": "Systems Administrator II",
     "status": "pending",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "internship",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-03-05T19:40:30Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Bahringer, O'Reilly and Bogisich",
     "position": "Chemical Engineer",
     "status": "interview",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "internship",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2021-10-08T12:16:16Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Weber-Walker",
     "position": "Financial Advisor",
     "status": "interview",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "internship",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-07-11T05:28:00Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Hudson, Wilderman and Ward",
     "position": "Editor",
     "status": "pending",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "part-time",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-01-04T11:28:34Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Block, Ondricka and Runte",
     "position": "Account Representative I",
     "status": "interview",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "part-time",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2021-12-11T17:34:09Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Hartmann, Feeney and Harris",
     "position": "Web Developer III",
     "status": "declined",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "internship",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-05-12T14:07:31Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Rosenbaum LLC",
     "position": "Human Resources Assistant I",
     "status": "pending",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "remote",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-02-27T00:05:46Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Luettgen LLC",
     "position": "Senior Cost Accountant",
     "status": "declined",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "internship",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2021-11-12T16:52:31Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Gleason-Bednar",
     "position": "Analog Circuit Design manager",
     "status": "pending",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "full-time",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2021-08-14T00:28:19Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Bogan Inc",
     "position": "Nurse",
     "status": "pending",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "part-time",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-06-20T10:03:34Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Weber-Block",
     "position": "Senior Developer",
     "status": "pending",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "part-time",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-01-26T23:24:54Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Casper-Smitham",
     "position": "Account Representative I",
     "status": "declined",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "internship",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-05-09T06:07:46Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Walsh-Mosciski",
     "position": "Software Test Engineer III",
     "status": "interview",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "part-time",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-03-25T22:49:04Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Senger, Russel and Leuschke",
     "position": "Compensation Analyst",
     "status": "pending",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "part-time",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-04-08T00:58:43Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Denesik-Davis",
     "position": "Automation Specialist I",
     "status": "pending",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "remote",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2021-09-07T04:57:17Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Luettgen-Kilback",
     "position": "Accountant II",
     "status": "pending",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "remote",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2021-10-05T06:19:27Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "McKenzie and Sons",
     "position": "Human Resources Assistant I",
     "status": "declined",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "internship",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-01-02T08:34:09Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Gulgowski LLC",
     "position": "Programmer IV",
     "status": "pending",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "remote",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-06-24T21:19:23Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Kozey-Keebler",
     "position": "Database Administrator II",
     "status": "declined",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "full-time",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2021-11-18T18:40:19Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Kihn-Boyle",
     "position": "Environmental Tech",
     "status": "interview",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "internship",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2021-11-09T18:43:06Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Brekke Group",
     "position": "Graphic Designer",
     "status": "pending",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "full-time",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-01-20T02:36:08Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Weber, Barrows and Shields",
     "position": "Electrical Engineer",
     "status": "declined",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "internship",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2021-12-03T06:53:52Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Blanda LLC",
     "position": "Accounting Assistant III",
     "status": "pending",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "full-time",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2021-12-03T08:04:03Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Schowalter, McKenzie and Hickle",
     "position": "GIS Technical Architect",
     "status": "pending",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "part-time",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-04-20T03:37:51Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Flatley Group",
     "position": "Associate Professor",
     "status": "interview",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "full-time",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-06-16T09:49:49Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Ward and Sons",
     "position": "Graphic Designer",
     "status": "interview",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "remote",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-08-06T19:00:39Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Greenholt and Sons",
     "position": "Senior Quality Engineer",
     "status": "pending",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "remote",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-01-09T04:57:45Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Wintheiser Inc",
     "position": "Cost Accountant",
     "status": "pending",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "part-time",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-01-09T21:23:00Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Reilly, Baumbach and Schneider",
     "position": "Executive Secretary",
     "status": "interview",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "part-time",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-03-28T18:07:56Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Boyle-Feeney",
     "position": "Chemical Engineer",
     "status": "interview",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "internship",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-02-27T16:33:15Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Schowalter, Smith and Boyle",
     "position": "Information Systems Manager",
     "status": "pending",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "full-time",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-08-03T17:37:33Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Olson-Sawayn",
     "position": "Geological Engineer",
     "status": "pending",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "remote",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2021-08-30T17:41:19Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Stroman, Carter and Russel",
     "position": "Community Outreach Specialist",
     "status": "interview",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "internship",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2021-12-15T16:44:51Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Russel-Cummerata",
     "position": "Information Systems Manager",
     "status": "declined",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "part-time",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2021-10-19T08:05:51Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Feest-Wisozk",
     "position": "Assistant Media Planner",
     "status": "declined",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "full-time",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2021-08-25T09:40:34Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Moore, O'Reilly and Spinka",
     "position": "Community Outreach Specialist",
     "status": "interview",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "full-time",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-04-19T05:07:39Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Jacobs LLC",
     "position": "Senior Developer",
     "status": "pending",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "internship",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2021-08-14T04:17:36Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Parisian-Ondricka",
     "position": "Nurse Practicioner",
     "status": "interview",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "part-time",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2021-09-20T14:27:15Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Lubowitz and Sons",
     "position": "Accountant II",
     "status": "interview",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "remote",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2021-12-12T02:51:11Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Kilback-Morissette",
     "position": "Human Resources Manager",
     "status": "interview",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "internship",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-08-06T21:17:03Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Padberg, Lindgren and Volkman",
     "position": "Pharmacist",
     "status": "interview",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "remote",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2021-10-16T06:03:16Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Buckridge-Howell",
     "position": "Graphic Designer",
     "status": "declined",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "part-time",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-06-23T22:02:21Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Pagac-Davis",
     "position": "Structural Engineer",
     "status": "interview",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "full-time",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-07-04T19:51:53Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Johns-Klocko",
     "position": "VP Accounting",
     "status": "pending",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "remote",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-04-02T18:39:10Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Dickens Inc",
     "position": "Research Nurse",
     "status": "declined",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "internship",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-01-27T04:51:37Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Veum-Stark",
     "position": "Accounting Assistant II",
     "status": "declined",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "part-time",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2021-09-16T05:59:25Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Lockman-Kiehn",
     "position": "Compensation Analyst",
     "status": "declined",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "full-time",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-05-27T11:40:47Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Toy, Witting and Moen",
     "position": "Account Executive",
     "status": "declined",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "full-time",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-08-03T07:08:07Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Hermann, Upton and McCullough",
     "position": "Systems Administrator IV",
     "status": "pending",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "internship",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-01-03T09:59:54Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Rohan, Streich and O'Hara",
     "position": "Teacher",
     "status": "interview",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "part-time",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-03-12T17:30:18Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Lebsack-Ernser",
     "position": "VP Marketing",
     "status": "declined",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "remote",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2021-11-02T03:47:24Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Morar-Auer",
     "position": "Research Assistant IV",
     "status": "interview",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "remote",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-03-15T21:53:49Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Bernier, Stamm and Batz",
     "position": "Software Engineer IV",
     "status": "declined",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "internship",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-01-25T14:54:18Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Orn LLC",
     "position": "Marketing Assistant",
     "status": "interview",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "internship",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-07-04T11:29:41Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Bartell, Grady and Effertz",
     "position": "Nurse",
     "status": "declined",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "full-time",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2022-03-22T21:30:46Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   },
   {
     "company": "Legros LLC",
     "position": "Safety Technician IV",
     "status": "declined",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
     "jobType": "full-time",
-    "createdBy": "62f801d0510a7c1ed2312d52",
-    "createdAt": "2021-08-23T16:37:09Z"
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "64222025d495c4c090ba088b" },
+    "company": "Mac's Lawn and Snow",
+    "position": "Laborer",
+    "status": "pending",
+    "createdBy": { "$oid": "6422264cd495c4c090ba08ef" },
+    "jobType": "full-time",
+    "jobLocation": "Tooele",
+    "createdAt": { "$date": { "$numberLong": "1679958053580" } },
+    "updatedAt": { "$date": { "$numberLong": "1679958053580" } },
+    "__v": { "$numberInt": "0" }
   }
 ]
